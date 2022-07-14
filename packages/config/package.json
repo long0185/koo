@@ -1,0 +1,12 @@
+{
+  "name": "@koo/config",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@types/ip": "^1.1.0"
+  },
+  "dependencies": {
+    "ip": "^1.1.8"
+  }
+}
